@@ -4,7 +4,7 @@ import Web3 from 'web3'
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 
-export const contract_address='0x34Ec01531188B4dd61bafc18794910E9bC283083'
+export const contract_address='0xF7db5cEd478445Cb1772e0276E0559EBd4d70958'
 function Userpage() {
   // use state
   const [account, setAccount] = React.useState('')
